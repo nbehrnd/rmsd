@@ -1,0 +1,24 @@
+
+name:   note.txt
+author: nbehrnd@yahoo.com
+date:   2019-12-13 (YYYY-MM-DD)
+
+The content of this branch reflects a local change of calculate_rmsd.py
+to provide in one run both the RMSD of the Kabsch test, as well as .xyz
+file about the successful superposition of the two model data; a commit
+by March 28, 2019.  It was deposit for a pull request #54 at the root of
+the project,
+
+https://github.com/charnley/rmsd
+
+Eventually, the changes were not considered for an inclusion into the
+root of the project.  It is more suitable to constrain the changes to
+a local forking repository, i.e. within
+
+https://github.com/nbehrnd/rmsd
+
+for which this branch 'RMSD_and_xyz' was created.  This equally allows
+to update the local 'master' branch (again) to reflect the 'master'
+branch maintained by Jimmy Charnley.
+
+END
